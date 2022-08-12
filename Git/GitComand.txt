@@ -1,0 +1,2 @@
+To Add File -> git add <File Name>
+To Add All File -> git add .
