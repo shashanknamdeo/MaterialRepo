@@ -1,0 +1,2 @@
+Create New Folder ->  Ctrl+Shift+N
+SwitchWindows ->  Alt+Tab
