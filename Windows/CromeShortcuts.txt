@@ -1,2 +1,5 @@
 New Tab ->  Ctrl+T
 Switch Tab -> Ctrl+Tab
+Switch Tab Back -> Ctrl+Shift+Tab
+go to search bar -> Ctrl+E or Alt+D
+go to search box of website -> /
